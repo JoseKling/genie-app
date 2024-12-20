@@ -1,0 +1,57 @@
+┌ Info: 2024-12-20 13:02:38 Watching ["/home/jkling/projects/App"]
+└ @ GenieAutoReload /home/jkling/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-20 13:02:39 Autoreloading
+└ @ GenieAutoReload /home/jkling/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:02:41 Precompiling CSV [336ed68f-0bac-5ca0-87d4-7b16caf5d00b] (cache misses: wrong dep version loaded (10), mismatched flags (2))
+└ @ Base loading.jl:2970
+┌ Info: 2024-12-20 13:02:54 Precompiling PlotlyBase [a03496cd-edff-5a9b-9e67-9cda94a718b5] (cache misses: wrong dep version loaded (4))
+└ @ Base loading.jl:2970
+┌ Info: 2024-12-20 13:03:24 Precompiling StippleJSONExt [3886c52f-dab8-57e2-b0ae-82bbfec347da] (cache misses: wrong dep version loaded (4))
+└ @ Base loading.jl:2970
+┌ Info: 2024-12-20 13:03:24 Skipping precompilation due to precompilable error. Importing StippleJSONExt [3886c52f-dab8-57e2-b0ae-82bbfec347da].
+│   exception = Error when precompiling module, potentially caused by a __precompile__(false) declaration in the module.
+└ @ Base loading.jl:2500
+┌ Info: 2024-12-20 13:04:42 Precompiling StipplePlotlyPlotlyBaseExt [b56141d2-b24b-5634-a189-a36fa0f8f44d] (cache misses: wrong dep version loaded (2))
+└ @ Base loading.jl:2970
+┌ Info: 2024-12-20 13:04:43 Skipping precompilation due to precompilable error. Importing StipplePlotlyPlotlyBaseExt [b56141d2-b24b-5634-a189-a36fa0f8f44d].
+│   exception = Error when precompiling module, potentially caused by a __precompile__(false) declaration in the module.
+└ @ Base loading.jl:2500
+┌ Info: 2024-12-20 13:05:04 Precompiling PointProcessTools [af963391-edf3-4164-85f9-7af95bb6ac47] (cache misses: wrong dep version loaded (14), mismatched flags (4))
+└ @ Base loading.jl:2970
+┌ Info: 2024-12-20 13:05:13 Skipping precompilation due to precompilable error. Importing PointProcessTools [af963391-edf3-4164-85f9-7af95bb6ac47].
+│   exception = Error when precompiling module, potentially caused by a __precompile__(false) declaration in the module.
+└ @ Base loading.jl:2500
+┌ Info: 2024-12-20 13:05:14 Precompiling StippleOffsetArraysExt [bddb8721-dd7f-5a6e-84f1-8bc2c54ba28f] (cache misses: wrong dep version loaded (2))
+└ @ Base loading.jl:2970
+┌ Info: 2024-12-20 13:05:15 Skipping precompilation due to precompilable error. Importing StippleOffsetArraysExt [bddb8721-dd7f-5a6e-84f1-8bc2c54ba28f].
+│   exception = Error when precompiling module, potentially caused by a __precompile__(false) declaration in the module.
+└ @ Base loading.jl:2500
+┌ Info: 2024-12-20 13:05:20 There are no events in this interval.
+└ @ PointProcessTools /home/jkling/.julia/packages/PointProcessTools/d2FwT/src/Record.jl:91
+┌ Info: 2024-12-20 13:05:21 Watching ["/home/jkling/projects/App"]
+└ @ GenieAutoReload /home/jkling/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-20 13:05:27 There are no events in this interval.
+└ @ PointProcessTools /home/jkling/.julia/packages/PointProcessTools/d2FwT/src/Record.jl:91
+┌ Info: 2024-12-20 13:05:31 There are no events in this interval.
+└ @ PointProcessTools /home/jkling/.julia/packages/PointProcessTools/d2FwT/src/Record.jl:91
+┌ Info: 2024-12-20 13:05:33 There are no events in this interval.
+└ @ PointProcessTools /home/jkling/.julia/packages/PointProcessTools/d2FwT/src/Record.jl:91
+┌ Info: 2024-12-20 13:05:33 Watching ["/home/jkling/projects/App"]
+└ @ GenieAutoReload /home/jkling/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-20 13:05:34 There are no events in this interval.
+└ @ PointProcessTools /home/jkling/.julia/packages/PointProcessTools/d2FwT/src/Record.jl:91
+┌ Info: 2024-12-20 13:05:34 There are no events in this interval.
+└ @ PointProcessTools /home/jkling/.julia/packages/PointProcessTools/d2FwT/src/Record.jl:91
+┌ Info: 2024-12-20 13:05:34 Autoreloading
+└ @ GenieAutoReload /home/jkling/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:05:38 Autoreloading
+└ @ GenieAutoReload /home/jkling/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:05:48 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/jkling/.julia/packages/Genie/TKJWe/src/Server.jl:182
+┌ Info: 2024-12-20 13:05:49 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/jkling/.julia/packages/HTTP/WctPa/src/Servers.jl:382
+┌ Info: 2024-12-20 13:06:24 There are no events in this interval.
+└ @ PointProcessTools /home/jkling/.julia/packages/PointProcessTools/d2FwT/src/Record.jl:91
+┌ Info: 2024-12-20 13:06:27 There are no events in this interval.
+└ @ PointProcessTools /home/jkling/.julia/packages/PointProcessTools/d2FwT/src/Record.jl:91
